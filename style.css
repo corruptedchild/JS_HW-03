@@ -1,0 +1,60 @@
+.m-0 {
+    color: white;
+}
+
+.card-header{
+    background-color: darkgray;
+}
+
+.card-body {
+    background-color: black;
+}
+
+#surnameOutput {
+    color: white;
+}
+
+#firstNameOutput {
+    color: white;
+}
+
+.name {
+    color: red;
+}
+
+#patronymicOutput {
+    color: white;
+}
+
+.patronymic {
+    color: red;
+}
+
+#jobOutput {
+    color: white;
+}
+
+.job {
+    color: red;
+}
+
+#genderOutput {
+    color: white;
+}
+
+.gender {
+    color: white;
+}
+
+#birthDayOutput {
+    color: white;
+}
+
+#birthMonthOutput {
+    color: white;
+}
+
+#birthYearOutput {
+    color: white;
+}
+
